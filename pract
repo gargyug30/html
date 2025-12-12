@@ -93,7 +93,7 @@
 <h2>Inline-Block Example</h2>
 <div class="inline-block-menu">
     <a href="#">Home</a>
-    <a href="#">Products</a>/
+    <a href="#">Products</a>
     <a href="#">About</a>
     <a href="#">Contact</a>
 </div>
